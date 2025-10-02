@@ -81,7 +81,7 @@ Returns server configuration information.
 
 ### Example Queries
 
-- "Get the weather forecast for latitude 34.0522 and longitude -118.2437" (Los Angeles)
+- "Get the weather forecast for Los Angeles?"
 - "Are there any weather alerts for California?"
 - "What's the forecast for coordinates 41.8781, -87.6298?" (Chicago)
 - "Check weather alerts for Texas"
