@@ -72,6 +72,3 @@ Description: {props['description'][:200]}..."""
 def get_config() -> str:
     """Get server configuration"""
     return "Weather API v1.0 - National Weather Service"
-
-if __name__ == "__main__":
-    mcp.run()
